@@ -1,0 +1,7 @@
+------------------------------------------------------------- 
+ Weather Stats for - BENGALURU  || 23 Jun 2021 | 04:18:00 PM
+------------------------------------------------------------- 
+Current temperature is: 29.47 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 47
+Current wind speed    : 3.09
